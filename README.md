@@ -1,3 +1,8 @@
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/TS-NAGARJUN" alt="GitHub Contributions" />
+</p>
+
 <h1 align="center">Hey there! 👋 I'm Nagarjun TS </h1>
 
 <p align="center">
