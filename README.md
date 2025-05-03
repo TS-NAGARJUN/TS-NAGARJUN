@@ -29,6 +29,23 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TS-NAGARJUN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TS-NAGARJUN&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <b>🔥 Total Contributions (Last Year):</b><br/>
+  <img src="https://komarev.com/ghpvc/?username=TS-NAGARJUN&label=PROFILE+VIEWS&style=flat-square" alt="views" />
+</p>
+
+---
+
 ### 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjun-ts-6b85a6258/)
